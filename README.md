@@ -32,4 +32,4 @@ The goal of the project was to design and implement a temperature sensing system
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
